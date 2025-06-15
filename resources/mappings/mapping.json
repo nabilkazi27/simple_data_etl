@@ -1,0 +1,42 @@
+{
+    "categories": {
+        "file_name": "resources/data/Categories.csv",
+        "table_name": "Categories",
+        "wipe_and_load": true
+    },
+    "customers": {
+        "file_name": "resources/data/Customers.csv",
+        "table_name": "Customers",
+        "wipe_and_load": true
+    },
+    "employees": {
+        "file_name": "resources/data/Employees.csv",
+        "table_name": "Employees",
+        "wipe_and_load": true
+    },
+    "order_details": {
+        "file_name": "resources/data/OrderDetails.csv",
+        "table_name": "OrderDetails",
+        "wipe_and_load": true
+    },
+    "orders": {
+        "file_name": "resources/data/Orders.csv",
+        "table_name": "Orders",
+        "wipe_and_load": true
+    },
+    "products": {
+      "file_name": "resources/data/Products.csv",
+      "table_name": "Products",
+      "wipe_and_load": true
+    },
+    "shippers": {
+      "file_name": "resources/data/Shippers.csv",
+      "table_name": "Shippers",
+      "wipe_and_load": true
+    },
+    "suppliers": {
+      "file_name": "resources/data/Suppliers.csv",
+      "table_name": "Suppliers",
+      "wipe_and_load": true
+    }
+  }
